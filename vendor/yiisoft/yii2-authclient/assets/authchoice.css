@@ -8,9 +8,7 @@
 }
 
 .auth-icon.google {
-    background: url(google.png) no-repeat;
-    width: 272px;
-    height: 92px;
+    background-position: 0 -34px;
 }
 .auth-icon.twitter {
     background-position: 0 -68px;

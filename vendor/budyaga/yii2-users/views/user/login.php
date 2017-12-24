@@ -9,10 +9,10 @@ use yii\helpers\Url;
 /* @var $model \budyaga\users\models\forms\LoginForm */
 
 $this->title = Yii::t('users', 'LOGIN');
-$this->params['breadcrumbs'][] = $this->title;
+
 ?>
 <div class="site-login">
-    <h1 class="text-center"><?= Yii::t('users', 'YOU_CAN_ENTER_VIA_SOCIAL_NETWORKS')?></h1>
+    <h3 class="text-center"><?= Yii::t('users', 'YOU_CAN_ENTER_VIA_SOCIAL_NETWORKS')?></h3>
 
     <div class="row">
         <div class="col-lg-12">
